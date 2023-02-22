@@ -1,0 +1,33 @@
+.titulo{
+    border: 1px solid black;
+    box-shadow: 4px 4px 10px slateblue;
+
+}
+
+
+
+
+
+/* selcetpor ayribut */
+
+
+p [lang = "esp"]{
+    background-color: beige;
+}
+
+
+
+a[href= "empresa"] {
+    background-color: brown;
+}
+
+
+main > p {
+    border-bottom: 1px dashed black;
+}
+
+
+h3 + p{
+    border-top: 1px solid cornflowerblue;
+    
+}
